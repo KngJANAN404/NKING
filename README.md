@@ -5,4 +5,4 @@ git clone https://github.com/KngJANAN404/NKING
 
 cdNKING
 
-python NKING.py
+python NKING.pyc
